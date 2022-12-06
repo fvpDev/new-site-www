@@ -1,0 +1,37 @@
+{
+  "name": "new-site",
+  "version": "0.0.1",
+  "license": "UNLICENSED",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "debug": "next build --profile --debug",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/[new-company]/new-site.git"
+  },
+  "dependencies": {
+    "@next/bundle-analyzer": "^12.3.1",
+    "animejs": "^3.2.1",
+    "classnames": "2.3.1",
+    "next": "^12.1.5",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "sharp": "^0.30.7",
+    "underscore": "^1.13.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/line-clamp": "^0.3.1",
+    "@types/node": "^16.10.2",
+    "@types/react": "^17.0.24",
+    "autoprefixer": "^10.4.4",
+    "cssnano": "^5.1.7",
+    "dotenv": "10.0.0",
+    "globby": "^11.0.4",
+    "postcss": "^8.4.12",
+    "prettier": "^2.4.1",
+    "tailwindcss": "^3.0.23"
+  }
+}

@@ -1,0 +1,3 @@
+@screen tablet-portrait { /* { min: 601px, max: 900px } */
+  html { font-size: calc((10 / 900)*(100vw - 0px)) }
+}

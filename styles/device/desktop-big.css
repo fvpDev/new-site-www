@@ -1,0 +1,4 @@
+@screen desktop-big { /* { min: 1801px, max: 1920px } */
+  html { font-size: calc((10 / 1920)*(100vw - 17px)) }
+  .w-page { width: calc(100vw - 17px) !important }
+}

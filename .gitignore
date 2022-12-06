@@ -1,0 +1,16 @@
+# Dependencies
+node_modules
+
+# Build
+.next
+
+# Debug
+*.log
+
+# Local Environment
+.env
+
+# Other
+package-lock.json
+public/robots.txt
+public/sitemap.xml
